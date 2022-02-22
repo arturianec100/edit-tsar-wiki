@@ -1,0 +1,14 @@
+{
+  "name": "tsar-wiki",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "wiki": "node_modules/.bin/tiddlywiki"
+  },
+  "author": "tsar community",
+  "license": "CC-BY-4.0",
+  "dependencies": {
+    "tiddlywiki": "^5.2.1"
+  }
+}
