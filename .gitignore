@@ -1,3 +1,6 @@
+# Specific for this repo
+tsarwiki/output
+
 # Logs
 logs
 *.log
